@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwzpV7s4s6XMvKiAZkySDti0hRPomXP30X6XD/lJ+EPvxrV0rggsKAcrWyL+kRZZbiDmDoEWZSNKHugFHC4BLA==",
+  "success": true,
+  "projectFilePath": "C:\\Repositories\\BloomFilter\\BloomFilter\\BloomFilter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\murmurhash\\1.0.3\\murmurhash.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
